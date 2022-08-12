@@ -21,19 +21,19 @@ public class ArticleList {
 
     public static ArticleList createArticleList(String json) throws IOException{
         ArticleList articleList = new ArticleList();
-        logger.info("ArticleList ACCESSED*******************");
+        //logger.info("ArticleList ACCESSED*******************");
 
         try(InputStream is = new ByteArrayInputStream(json.getBytes())){
             JsonReader r = Json.createReader(is);
             JsonObject o = r.readObject();
             articleList.message =o.getString("Message");
-            logger.info("Message received************** >>> " + articleList.message );
+            //logger.info("Message received************** >>> " + articleList.message );
 
             articleList.articleList = o.getJsonArray("Data").stream().map(v -> (JsonObject)(v))
                             .map(v -> Articles.createArticles(v))
                             .toList();
 
-        logger.info("List Created*******************");
+        //logger.info("List Created*******************");
         //logger.info("List2***************>>>>>> " + articleList.articleList.get(2).getId()); 
         }catch(IOException e){
             e.printStackTrace();

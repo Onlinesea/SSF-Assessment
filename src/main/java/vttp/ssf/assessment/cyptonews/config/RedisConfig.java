@@ -25,16 +25,14 @@ public class RedisConfig {
     @Value("${spring.redis.port}")
     private Optional<Integer> redisPort;
 
-
-    @Value("${spring.redis.database}")
-    private String redisDatabase;
-
     @Bean(name = "news")
     @Scope("singleton")
     public RedisTemplate<String, Articles> redisTemplate() {
 
         String redisPassword = System.getenv("SPRING_REDIS_PASSWORD");
+
         String redisHost = System.getenv("SPRING_REDIS_HOST");
+
 
         final RedisStandaloneConfiguration config = new RedisStandaloneConfiguration();
         config.setHostName(redisHost);

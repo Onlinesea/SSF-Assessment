@@ -36,6 +36,9 @@ public class NewsService {
 
     public Optional<ArticleList> getArticle(){
         String apikey = System.getenv("CYPTO_API_KEY");
+        
+
+
         String NewsUrl= UriComponentsBuilder.fromUriString(URL)
                         .queryParam("lang","EN")
                         .queryParam("api_key", apikey)

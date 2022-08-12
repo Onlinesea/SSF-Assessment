@@ -9,10 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
 
 import vttp.ssf.assessment.cyptonews.model.ArticleList;
-import vttp.ssf.assessment.cyptonews.model.Articles;
 import vttp.ssf.assessment.cyptonews.service.NewsService;
 
 @Controller
@@ -24,7 +22,7 @@ public class NewsController {
     private NewsService newsSvc;
 
 
-    @GetMapping
+    @GetMapping("/api")
     public String getNewsArticles(Model model){ 
 
         Optional<ArticleList> opt = newsSvc.getArticle();
@@ -35,21 +33,21 @@ public class NewsController {
         }else{
             logger.info("Id of the first article >>>>>>>>>>>>>>>>>>>>> " + opt.get().articleList.get(0).getId());
 
-            model.addAttribute("ArticleList", opt.get().articleList);
-            return "testing"; 
+            model.addAttribute("ArticleList", opt.get().articleList.toArray());
+            return "text"; 
         }
     }
 
-    @GetMapping("/dummy")
-    public String getNewArticleWithDummy(Model model) throws IOException{
+    @GetMapping("/")
+    public String getNewArticle(Model model) throws IOException{
         
         
         ArticleList artList = newsSvc.getArticleList();
-        logger.info(">>>>>>>>>>>>>>>>" + artList.articleList.get(2).getId());
+        //logger.info(">>>>>>>>>>>>>>>>" + artList.articleList.get(2).getId());
         model.addAttribute("artList", artList.articleList.toArray());
         return "text";    
     } 
-
+/* 
     @PostMapping("/articles")
     public String saveArticles(Model model, Articles[] artArr) throws IOException{
 
@@ -66,6 +64,6 @@ public class NewsController {
         return "text"; 
         
     }
-
+*/
 
 }
