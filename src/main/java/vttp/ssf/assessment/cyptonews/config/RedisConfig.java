@@ -30,8 +30,8 @@ public class RedisConfig {
     public RedisTemplate<String, Articles> redisTemplate() {
 
         String redisPassword = System.getenv("SPRING_REDIS_PASSWORD");
-
         String redisHost = System.getenv("SPRING_REDIS_HOST");
+
 
 
         final RedisStandaloneConfiguration config = new RedisStandaloneConfiguration();

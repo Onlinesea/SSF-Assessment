@@ -21,19 +21,18 @@ public class NewsController {
     @Autowired
     private NewsService newsSvc;
 
-
+ 
     @GetMapping("/api")
     public String getNewsArticles(Model model){ 
 
         Optional<ArticleList> opt = newsSvc.getArticle();
-
         if(opt.isEmpty()){
             return "error";
 
         }else{
             logger.info("Id of the first article >>>>>>>>>>>>>>>>>>>>> " + opt.get().articleList.get(0).getId());
 
-            model.addAttribute("ArticleList", opt.get().articleList.toArray());
+            model.addAttribute("artList", opt.get().articleList.toArray());
             return "text"; 
         }
     }
@@ -47,7 +46,7 @@ public class NewsController {
         model.addAttribute("artList", artList.articleList.toArray());
         return "text";    
     } 
-/* 
+ 
     @PostMapping("/articles")
     public String saveArticles(Model model, Articles[] artArr) throws IOException{
 
@@ -64,6 +63,6 @@ public class NewsController {
         return "text"; 
         
     }
-*/
+
 
 }
