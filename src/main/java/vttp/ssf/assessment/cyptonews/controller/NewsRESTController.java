@@ -29,7 +29,7 @@ public class NewsRESTController {
         Articles result = svc.findById(newsId);
 
         return  ResponseEntity.ok(result);
- 
+ /* 
         if( result != null){
             return ResponseEntity.ok(result);
         }else{
@@ -40,6 +40,7 @@ public class NewsRESTController {
             
             return ResponseEntity.status(HttpStatus.NOT_FOUND);
         }
+        */
 
     }
 
