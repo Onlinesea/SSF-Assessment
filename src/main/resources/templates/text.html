@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>List of articles</h1>
+    
+    <form 
+    th:action="@{/articles}" 
+    method="post" 
+    th:object="${artArr}"
+    action="#"
+    ></form>
+    <input type="submit" value="Save">
+    <ol>
+        <div th:each = "article:${artList}"> 
+            <li>
+                <p>Id: <span th:text="${article.getId()}"></span></p>
+                <p>Pusblished On: <span th:text="${article.getPublished_on()}"></span></p>
+                <p>Title: <span th:text="${article.getId()}"></span></p>
+                <p>Url: <a th:href="${article.getUrl()}"><span th:text = "${article.getUrl()}"></span></a></p>
+                <p><img th:src="@{${article.getImageUrl()}}" width="200" height="200 "></p>
+                <p>Body: <span th:text="${article.getBody()}"></span></p>
+                <p>Tags: <span th:text="${article.getTags()}"></span></p>
+                <p>Catergories: <span th:text="${article.getCategories()}"></span></p>
+                <input type="checkbox" name="article" th:checked="${toSave}"/><label for="article">Save</label>    
+            </li>
+        </div>   
+    </ol>
+</form>
+    
+</body>
+</html>

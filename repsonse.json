@@ -1,0 +1,1009 @@
+{
+    "Type": 100,
+    "Message": "News list successfully returned",
+    "Promoted": [],
+    "Data": [
+        {
+            "id": "27933814",
+            "guid": "https://cryptonews.com/news/bitcoin-and-ethereum-trim-gains-btg-and-etc-outperform.htm",
+            "published_on": 1660278720,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptonews.png",
+            "title": "Bitcoin and Ethereum Trim Gains, BTG and ETC Outperform",
+            "url": "https://cryptonews.com/news/bitcoin-and-ethereum-trim-gains-btg-and-etc-outperform.htm",
+            "source": "cryptonews",
+            "body": "Bitcoin price gained pace after it broke the USD 24,200 resistance zone. BTC even climbed above USD 24,500, but it failed to test USD 25,000. It is currently (04:17 UTC) trading near USD 24,000 and is down 1% in a day and up 6% in a week. Besides, most major altcoins are consolidating gains. ETH is trading near USD 1,900 and eyeing more gains. XRP might attempt an upside break above USD 0.385. ADA is facing a major hurdle near the USD 0.55 level. Total market capitalization...Read More: Bitcoin and Ethereum Trim Gains, BTG and ETC Outperform",
+            "tags": "Bitcoin News|btc|ETH|XRP|ADA|SOL|BNB|DOGE|Altcoins|Market",
+            "categories": "BTC|ETH|Trading|ADA|Altcoin",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "cryptonews",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptonews.png"
+            }
+        },
+        {
+            "id": "27933798",
+            "guid": "https://news.bitcoin.com/?p=541844",
+            "published_on": 1660278651,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoincom.png",
+            "title": "Bitcoin Miner Genesis Digital Assets Secured 708 MW in Capacity During the First Half of 2022",
+            "url": "https://news.bitcoin.com/bitcoin-miner-genesis-digital-assets-secured-708-mw-in-capacity-during-the-first-half-of-2022/",
+            "source": "bitcoin.com",
+            "body": "This week the bitcoin mining company Genesis Digital Assets announced that the firm has secured 708 megawatts (MW) in capacity and revealed plans to create 130 full-time jobs in the United States. The chief operating officer at Genesis, Andrey Kim, said the firm has been pleased with &#x201C;the pace&#x201D; of the bitcoin mining company&#x2019;s U.S. [&#8230;]",
+            "tags": "Mining|Andrey Kim|ASIC|ASIC miners|ASICs|Bitcoin Miners|Bitcoin Mining Rigs|Bitcoin network|BTC miners|Canaan|cipher mining|Cleanspark|expansion|Follow-on Contract|genesis|Genesis COO|Genesis Digital Assets|Kryptovault AS|Lydia Nyarko|SHA256 miners|US Expansion|wirex us expansion",
+            "categories": "BTC|Mining",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Bitcoin.com",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/bitcoincom.png"
+            }
+        },
+        {
+            "id": "27933797",
+            "guid": "https://ambcrypto.com/?p=251500",
+            "published_on": 1660278637,
+            "imageurl": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+            "title": "AAVE: Aftermath of GHO stablecoin approval and V3 kick off",
+            "url": "https://ambcrypto.com/aave-aftermath-of-gho-stablecoin-approval-and-v3-kick-off/",
+            "source": "ambcrypto",
+            "body": "Developments around the open-source DeFi protocol, AAVE looks like a non-stop activity. In July, the community agreed to launch GHO, its own stablecoin. Now, AAVE has proposed something new. This time, the community has requested its voting and governance community to approve retroactive funding for AAVE version 3 (V3). So how much is AAVE looking [&#8230;]",
+            "tags": "Altcoins|News|News 1|Social|Trading View|AAVE|AAVE investors",
+            "categories": "AAVE|Altcoin|Blockchain",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "AMB Crypto",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/ambcrypto.png"
+            }
+        },
+        {
+            "id": "27933796",
+            "guid": "https://cointelegraph.com/news/btc-mining-stocks-double-in-a-month-as-production-ramps",
+            "published_on": 1660278204,
+            "imageurl": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+            "title": "BTC mining stocks double in a month as production ramps",
+            "url": "https://cointelegraph.com/news/btc-mining-stocks-double-in-a-month-as-production-ramps",
+            "source": "cointelegraph",
+            "body": "While Bitcoin and Ethereum prices may have climbed lately, Bitcoin mining companies have been absolutely pumping.",
+            "tags": "Bitcoin Mining|Mining|Mining Pools",
+            "categories": "BTC|Mining|ETH|Market",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "CoinTelegraph",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+            }
+        },
+        {
+            "id": "27933795",
+            "guid": "https://coingape.com/?p=119467",
+            "published_on": 1660277840,
+            "imageurl": "https://images.cryptocompare.com/news/default/coingape.png",
+            "title": "Is MakerDAO Moving All Its USDC Funds to ETH? Vitalik Buterin Calls It Terrible Idea",
+            "url": "https://coingape.com/is-makerdao-moving-all-its-usdc-funds-to-eth-vitalik-buterin-calls-it-terrible-idea/",
+            "source": "coingape",
+            "body": "In a big development, Rune Chirstensen, founder of MakerDAO has urged all the members to &#8220;seriously consider&#8221; preparing the depeg of the DAI stablecoin from the U.S. Dollar. The comments came on the MakerDAO discord channel on Thursday, August 11, after the U.S. Treasury sanctioned crypto mixer Tornado Cash earlier this week. Post this, Circle The post Is MakerDAO Moving All Its USDC Funds to ETH? Vitalik Buterin Calls It Terrible Idea appeared first on CoinGape.",
+            "tags": "News|Stablecoin News|DAI Stablecoin|MakerDAO",
+            "categories": "ETH|Fiat|Regulation",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "CoinGape",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/coingape.png"
+            }
+        },
+        {
+            "id": "27933794",
+            "guid": "https://coinnounce.com/?p=30964",
+            "published_on": 1660276683,
+            "imageurl": "https://images.cryptocompare.com/news/default/coinnounce.png",
+            "title": "Elliptic Launches Product To Track Crypto Flow",
+            "url": "https://coinnounce.com/elliptic-launches-product-to-track-crypto-flow/",
+            "source": "coinnounce",
+            "body": "Elliptic is now capable of monitoring cryptocurrency transactions within milliseconds across all blockchains. According to a press release, Holistic Screening, the latest analytics solution launched by Elliptic, can help companies comply with regulations. Tracing stolen money across many blockchains, often achieved through cross-chain bridges, will be sped up with Holistic Screening. &#8220;The use of cryptocurrencies [&#8230;]",
+            "tags": "Crypto Exchange|Crypto News|Cryptocurrency|Trending|cryptocurency news|Cryptocurrencies",
+            "categories": "Other",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Coinnounce",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/coinnounce.png"
+            }
+        },
+        {
+            "id": "27933793",
+            "guid": "https://coinnounce.com/?p=30962",
+            "published_on": 1660276490,
+            "imageurl": "https://images.cryptocompare.com/news/default/coinnounce.png",
+            "title": "Robinhood Web3 Crypto Wallet Waiting List Crosses Million",
+            "url": "https://coinnounce.com/robinhood-web3-crypto-wallet-waiting-list-crosses-million/",
+            "source": "coinnounce",
+            "body": "Robinhood has announced that the beta testing of the update, which will offer a cryptocurrency service, will begin in the coming weeks. Robinhood recently announced its web3 crypto wallet. The number of customers on the Web3 crypto wallet waiting list has exceeded 1 million. Robinhood CEO Vladimir Tenev has announced that the company&#8217;s upcoming Web3 [&#8230;]",
+            "tags": "Crypto News|Cryptocurrency|Trending|Uncategorized|web3|web3 news",
+            "categories": "Other",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Coinnounce",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/coinnounce.png"
+            }
+        },
+        {
+            "id": "27933792",
+            "guid": "https://coinnounce.com/?p=30960",
+            "published_on": 1660276336,
+            "imageurl": "https://images.cryptocompare.com/news/default/coinnounce.png",
+            "title": "Ethereum Ready For Proof Of Stake : Merge Test Successful",
+            "url": "https://coinnounce.com/ethereum-ready-for-proof-of-stake-merge-test-successful/",
+            "source": "coinnounce",
+            "body": "The last major Ethereum testnet &#8220;Gorli&#8221; was successfully put on Proof of Stake. The merge simulation ran without any major complications, and the way for the consensus change on the main chain expected in mid-September seems clear. The price increase for ether today is correspondingly large: eleven percent, which brings ETH back close to the [&#8230;]",
+            "tags": "Crypto News|Cryptocurrency|Ethereum|Trending|ethereum news",
+            "categories": "ETH|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Coinnounce",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/coinnounce.png"
+            }
+        },
+        {
+            "id": "27933791",
+            "guid": "https://www.cryptopolitan.com/?p=210559",
+            "published_on": 1660275758,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+            "title": "Bitcoin, Ethereum, Litecoin, and Chainlink Daily Price Analyses – 11 August Roundup",
+            "url": "https://www.cryptopolitan.com/bitcoin-ethereum-litecoin-and-chainlink-daily-price-analyses-11-august-roundup/",
+            "source": "cryptopolitan",
+            "body": "The global crypto market has taken a turn as it couldn’t retain its gains. The change in its pace has affected the performance of Bitcoin, Ethereum, and others. As the bearish trend set in, it has affected the influx of capital to the market. The new wave of bearishness might deprive the market of the &#8230;  Bitcoin, Ethereum, Litecoin, and Chainlink Daily Price Analyses – 11 August Roundup Read More &#187;",
+            "tags": "Bitcoin News|cryptocurrency trading|cryptomarket",
+            "categories": "BTC|ETH|Market|Trading|LINK",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Cryptopolitan",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png"
+            }
+        },
+        {
+            "id": "27933790",
+            "guid": "https://dailyhodl.com/?p=213558",
+            "published_on": 1660275644,
+            "imageurl": "https://images.cryptocompare.com/news/default/dailyhodl.png",
+            "title": "Trajectory of Crypto Winter Development – 2018 Once Again?",
+            "url": "https://dailyhodl.com/2022/08/11/trajectory-of-crypto-winter-development-2018-once-again/",
+            "source": "dailyhodl",
+            "body": "This June the crypto market cap slumped under the $1 trillion mark for the first time since January 2021. The collapse of Terra left behind the biggest loss of wealth in recent history, with retail and institutional investors alike losing over $60 billion in funds and undermining the overall trust in the market. We can [&#8230;]The post Trajectory of Crypto Winter Development – 2018 Once Again? appeared first on The Daily Hodl.",
+            "tags": "HodlX",
+            "categories": "Market|Business|LUNA",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "The Daily Hodl",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/dailyhodl.png"
+            }
+        },
+        {
+            "id": "27933789",
+            "guid": "https://www.theblock.co/post/163162",
+            "published_on": 1660275360,
+            "imageurl": "https://images.cryptocompare.com/news/default/theblock.png",
+            "title": "Lightning Network app Strike touts new Visa card",
+            "url": "https://www.theblock.co/post/163162/lightning-network-app-strike-touts-new-visa-card?utm_source=cryptocompare&utm_medium=rss",
+            "source": "theblock",
+            "body": "Strike, the crypto payments app built on the Lightning Network, announced a new Visa card that will offer spending rewards.",
+            "tags": "Bitcoin|Layer 2s and Scaling|Payments and Banking|card|jack-mallers|lightning-network|strike|visa",
+            "categories": "BTC",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "TheBlock",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/theblock.png"
+            }
+        },
+        {
+            "id": "27933788",
+            "guid": "https://cryptopotato.com/?p=209255",
+            "published_on": 1660275025,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptopotato.png",
+            "title": "India Investigates Ten Crypto Exchanges For Laundering Over $125 Million",
+            "url": "https://cryptopotato.com/india-investigates-ten-crypto-exchanges-for-laundering-over-125-million/",
+            "source": "cryptopotato",
+            "body": "India's Enforcement Directorate is conducting an investigation on ten exchanges for laundering over Rs 1,000 Crore or $125M+ in crypto.",
+            "tags": "AA News|Crypto News|Exchange|India|Money Laundering",
+            "categories": "Exchange",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Crypto Potato",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptopotato.png"
+            }
+        },
+        {
+            "id": "27933787",
+            "guid": "https://bitcoinmagazine.com/markets/how-big-is-the-everything-bubble",
+            "published_on": 1660275000,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoinmagazine.png",
+            "title": "Just How Big Is The Everything Bubble?",
+            "url": "https://bitcoinmagazine.com/markets/how-big-is-the-everything-bubble",
+            "source": "bitcoinmagazine",
+            "body": "Certain indicators of equity valuations exhibit overvaluation now. In the future investors will look for alternative assets to park their wealth.",
+            "tags": "Markets|liquidity|bubble|Bitcoin Magazine Pro|Stocks|Equities",
+            "categories": "Business|Market",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Bitcoin Magazine",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/bitcoinmagazine.png"
+            }
+        },
+        {
+            "id": "27933785",
+            "guid": "https://bitcoinmagazine.com/culture/bitcoin-will-lead-us-to-a-more-virtuous-world",
+            "published_on": 1660273200,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoinmagazine.png",
+            "title": "Bitcoin Will Lead Us To A More Virtuous World",
+            "url": "https://bitcoinmagazine.com/culture/bitcoin-will-lead-us-to-a-more-virtuous-world",
+            "source": "bitcoinmagazine",
+            "body": "Rare is the successful revolution whose new regime is kinder, gentler and more just than the one it replaces. We must strive to protect the spirit of Bitcoin.",
+            "tags": "religion|Christianity|Culture|Opinion|Hyperbitcoinization",
+            "categories": "BTC",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Bitcoin Magazine",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/bitcoinmagazine.png"
+            }
+        },
+        {
+            "id": "27933784",
+            "guid": "https://www.newsbtc.com/?p=498468",
+            "published_on": 1660273117,
+            "imageurl": "https://images.cryptocompare.com/news/default/newsbtc.png",
+            "title": "TA: Bitcoin Price Tops Near $25K, Why Dips Might Be Limited",
+            "url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-tops-near-25k/",
+            "source": "newsbtc",
+            "body": "Bitcoin traded close to $25,000 before it corrected lower against the US Dollar. BTC must stay above the $23,500 support to start another increase. Bitcoin started a fresh increase above the $24,000 resistance zone. The price is now trading above the $23,600 level and the 100 hourly simple moving average. There was a break below a major bullish trend line with support near $24,000 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair is now approaching a major support zone near $23,600 and $23,500. Bitcoin Price Corrects Lower Bitcoin price gained pace after there was a clear move above the $24,000 resistance zone. BTC broke the $24,200 level to move further into a positive zone. The price even climbed above the $24,500 level and traded close to the $25,000 level. A high was formed near $24,900 and the price started a downside correction. There was a move below the $24,500 support level. Besides, there was a break below a major bullish trend line with support near $24,000 on the hourly chart of the BTC/USD pair. Bitcoin price even traded below the 23.6% Fib retracement level of the upward move from the $22,686 swing low to $24,901 high. However, the price is now trading above the $23,600 level and the 100 hourly simple moving average. On the upside, an immediate resistance is near the $24,200 level. Source: BTCUSD on TradingView.com The next key resistance is near the $24,500 zone. A close above the $24,500...",
+            "tags": "BTC|bitcoin|btcusd|BTCUSDT|xbtusd",
+            "categories": "Trading|BTC|Fiat",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "NewsBTC",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/newsbtc.png"
+            }
+        },
+        {
+            "id": "27933783",
+            "guid": "https://cointelegraph.com/news/coming-sooner-eth-devs-move-up-the-date-for-merge",
+            "published_on": 1660272224,
+            "imageurl": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+            "title": "Coming sooner: ETH devs move up the date for Merge",
+            "url": "https://cointelegraph.com/news/coming-sooner-eth-devs-move-up-the-date-for-merge",
+            "source": "cointelegraph",
+            "body": "Ethereum’s transition to Proof-of-Stake is inching ever closer after developers agreed to a tentative date for the mainnet merge. ",
+            "tags": "Chandler Guo|The Merge|TTD",
+            "categories": "ETH",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "CoinTelegraph",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+            }
+        },
+        {
+            "id": "27933782",
+            "guid": "https://cointelegraph.com/news/makerdao-should-seriously-consider-depegging-dai-from-usd-founder",
+            "published_on": 1660271806,
+            "imageurl": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+            "title": "MakerDAO should 'seriously consider' depegging DAI from USD: Founder",
+            "url": "https://cointelegraph.com/news/makerdao-should-seriously-consider-depegging-dai-from-usd-founder",
+            "source": "cointelegraph",
+            "body": "In light of the recent Tornado Cash and frozen USDC addresses debacle, MakerDAO founder Rune Christensen is hoping to move DAI’s collateralization away from USDC. ",
+            "tags": "MakerDAO|DAO|Rune Chirstensen|DAI|Stablecoins",
+            "categories": "Other",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "CoinTelegraph",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+            }
+        },
+        {
+            "id": "27933780",
+            "guid": "https://news.bitcoin.com/?p=541912&preview=true&preview_id=541912",
+            "published_on": 1660271429,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoincom.png",
+            "title": "Crypto Exchange Hotbit Suspends Service After Law Enforcement Freezes Its Funds, Subpoenas Senior Managers",
+            "url": "https://news.bitcoin.com/crypto-exchange-hotbit-suspends-service-after-law-enforcement-seizes-its-funds-subpoenas-senior-managers/",
+            "source": "bitcoin.com",
+            "body": "Crypto exchange Hotbit has announced the suspension of trading, deposits, withdrawals, and funding on its platform. The exchange said law enforcement has frozen some of its funds and subpoenaed some senior managers as they investigate a criminal case involving the exchange&#x2019;s former employee. Hotbit Suspends Trading, Deposits, Withdrawals Cryptocurrency exchange Hotbit announced the suspension of [&#8230;]",
+            "tags": "Exchanges|crypto exchange|Cryptocurrency Exchange|hotbit|hotbit crypto exchange|hotbit suspends service",
+            "categories": "Exchange|Regulation|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Bitcoin.com",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/bitcoincom.png"
+            }
+        },
+        {
+            "id": "27933781",
+            "guid": "https://ambcrypto.com/?p=251430",
+            "published_on": 1660271427,
+            "imageurl": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+            "title": "Solana [SOL] hits a double-digit uptick amid this upgrade",
+            "url": "https://ambcrypto.com/solana-sol-hits-double-digit-uptick-amid-this-upgrade/",
+            "source": "ambcrypto",
+            "body": "Solana [SOL] 2021 performance remains one of the best in recent times. Unfortunately, the “Ethereum killer” had failed to replicate that bullish run as it remained at a whopping 83.68% below its all-time high (ATH) as per CryptoQuant. The cryptocurrency surged after the successful Ethereum [ETH] Georli testnet merge. Over the last 24 hours, SOL [&#8230;]",
+            "tags": "Altcoins|News|News 1|Social|Trading View|SOL|Solana",
+            "categories": "SOL|ETH|Altcoin|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "AMB Crypto",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/ambcrypto.png"
+            }
+        },
+        {
+            "id": "27933779",
+            "guid": "https://www.cryptoglobe.com/latest/2022/08/crypto-market-recovery-sees-btc-trading-into-busd-explode-report/",
+            "published_on": 1660270800,
+            "imageurl": "https://images.cryptocompare.com/news/cryptoglobe/80000000000.jpeg",
+            "title": "Crypto Market Recovery Sees $BTC Trading Into $BUSD Explode: Report",
+            "url": "https://www.cryptoglobe.com/latest/2022/08/crypto-market-recovery-sees-btc-trading-into-busd-explode-report/",
+            "source": "cryptoglobe",
+            "body": "The cryptocurrency market’s recovery in July, which has seen the price of Bitcoin ($BTC) rise 18.4% and of Ethereum ($ETH) rise 64.7% respectively, has seen trading volume for the flagship cryptocurrency against BinanceUSD ($BUSD) explode upwards. According to CryptoCompare’s July 2022 Exchange Review, the average daily volume of the BTC/BUSD pair rose 62.1% to 1.49 […]",
+            "tags": "Altcoins|Bitcoin|Stablecoins",
+            "categories": "BTC|Trading|ETH|Altcoin|Exchange",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "CryptoGlobe",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptoglobe.png"
+            }
+        },
+        {
+            "id": "27933767",
+            "guid": "https://decrypt.co/?p=107306",
+            "published_on": 1660269664,
+            "imageurl": "https://images.cryptocompare.com/news/default/decrypt.png",
+            "title": "Ethereum Classic Hits 4-Month High as Merge Approaches",
+            "url": "https://decrypt.co/107306/ethereum-classic-hits-4-month-high-as-merge-approaches",
+            "source": "decrypt",
+            "body": "The upswing in ETC’s price coincides with the upswing of ETH.",
+            "tags": "ETC|Coins",
+            "categories": "ETC|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Decrypt",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/decrypt.png"
+            }
+        },
+        {
+            "id": "27933766",
+            "guid": "https://www.cryptoglobe.com/latest/2022/08/billionaire-investor-mike-novogratz-outlines-key-ethereum-level-to-watch-as-eth-rises/",
+            "published_on": 1660267200,
+            "imageurl": "https://images.cryptocompare.com/news/cryptoglobe/a20w0yso200.jpeg",
+            "title": "Billionaire Investor Mike Novogratz Outlines Key Ethereum Level to Watch as $ETH Rises",
+            "url": "https://www.cryptoglobe.com/latest/2022/08/billionaire-investor-mike-novogratz-outlines-key-ethereum-level-to-watch-as-eth-rises/",
+            "source": "cryptoglobe",
+            "body": "Former hedge fund manager and billionaire investor Mike Novogratz, founder and CEO of Galaxy Digital, has outlined a key price level to watch on Ethereum ($ETH) as the cryptocurrency surges ahead of its long-awaited Merge upgrade. During an interview with Bloomberg, Novogratz noted that Ethereum needs to break through a key resistance level it’s facing […]",
+            "tags": "Altcoins|Ethereum",
+            "categories": "ETH|Business|Altcoin|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "CryptoGlobe",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptoglobe.png"
+            }
+        },
+        {
+            "id": "27933765",
+            "guid": "https://blockworks.co/?p=26760",
+            "published_on": 1660266980,
+            "imageurl": "https://images.cryptocompare.com/news/default/blockworks.png",
+            "title": "Steve Cohen Quietly Setting Up Crypto-only Asset Manager",
+            "url": "https://blockworks.co/steve-cohen-building-out-crypto-investment-firm/",
+            "source": "blockworks",
+            "body": "Blockworks exclusive: The move to create a separate entity reflects Cohen’s increasing bullishness on digital assets, according to four sources familiar with the matterThe post Steve Cohen Quietly Setting Up Crypto-only Asset Manager appeared first on Blockworks.",
+            "tags": "Asset Management|cryptocurrency|hedge fund|Steve Cohen",
+            "categories": "Other",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Blockworks",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/blockworks.png"
+            }
+        },
+        {
+            "id": "27933764",
+            "guid": "https://news.bitcoin.com/?p=541914&preview=true&preview_id=541914",
+            "published_on": 1660264232,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoincom.png",
+            "title": "World’s Largest Asset Manager Blackrock Launches Bitcoin Private Trust Citing ‘Substantial Interest’ From Clients",
+            "url": "https://news.bitcoin.com/worlds-largest-asset-manager-blackrock-launches-bitcoin-private-trust-citing-substantial-interest-from-clients/",
+            "source": "bitcoin.com",
+            "body": "The world&#x2019;s largest asset manager, Blackrock, has launched a spot bitcoin private trust. &#x201C;Despite the steep downturn in the digital asset market, we are still seeing substantial interest from some institutional clients,&#x201D; said Blackrock. Blackrock Launches Bitcoin Trust Blackrock, the world&#x2019;s largest asset manager, has launched &#x201C;Blackrock bitcoin private trust.&#x201D; According to a Thursday blog [&#8230;]",
+            "tags": "Featured|bitcoin trust|Blackrock|blackrock bitcoin|blackrock bitcoin investments|blackrock bitcoin products|blackrock bitcoin trust|blackrock btc|blackrock crypto|blackrock cryptocurrency|blackrock institutional clients",
+            "categories": "BTC|Market|Sponsored",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Bitcoin.com",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/bitcoincom.png"
+            }
+        },
+        {
+            "id": "27933763",
+            "guid": "https://ambcrypto.com/?p=251435",
+            "published_on": 1660264210,
+            "imageurl": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+            "title": "Bitcoin: Is $25,000 the next supply level for BTC holders",
+            "url": "https://ambcrypto.com/bitcoin-is-25000-the-next-supply-level-for-btc-holders/",
+            "source": "ambcrypto",
+            "body": "Bitcoin has resumed its affinity for the upside after the slight retracement last week and relative uncertainty earlier this week. That uncertainty was caused as the market eagerly anticipated inflation data which turned out softer than anticipated. The lower inflation data boosted investors&#8217; sentiment. Hence, encouraging an overall bullish outlook. Bitcoin managed to rally by [&#8230;]",
+            "tags": "Bitcoin|BTC Trading View|News|News 1|Social|Trading View|BTC|featured",
+            "categories": "BTC|Trading|Market|Sponsored",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "AMB Crypto",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/ambcrypto.png"
+            }
+        },
+        {
+            "id": "27933762",
+            "guid": "https://www.cryptoglobe.com/latest/2022/08/crypto-trading-expert-outlines-key-bitcoin-btc-price-levels-to-watch-after-predicting-rise-above-24000/",
+            "published_on": 1660263600,
+            "imageurl": "https://images.cryptocompare.com/news/cryptoglobe/cbkomAS9ZG2.jpeg",
+            "title": "Crypto Trading Expert Outlines Key Bitcoin ($BTC) Price Levels to Watch After Predicting Rise Above $24,000",
+            "url": "https://www.cryptoglobe.com/latest/2022/08/crypto-trading-expert-outlines-key-bitcoin-btc-price-levels-to-watch-after-predicting-rise-above-24000/",
+            "source": "cryptoglobe",
+            "body": "A popular cryptocurrency trading expert has identified a key Bitcoin ($BTC) price level to watch after noting that a technical indicator flashed a buy signal that could take Bitcoin’s price above the $24,000 mark. Shortly after the expert, Ali Martinez, pointed out that the TD Sequential indicator was presenting a buy signal that could take […]",
+            "tags": "Bitcoin",
+            "categories": "Trading|BTC",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "CryptoGlobe",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptoglobe.png"
+            }
+        },
+        {
+            "id": "27933761",
+            "guid": "https://cryptonews.com/exclusives/inflation-spiking-around-world-not-just-us.htm",
+            "published_on": 1660262400,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptonews.png",
+            "title": "Inflation Is Spiking Around the World – Not Just in the US",
+            "url": "https://cryptonews.com/exclusives/inflation-spiking-around-world-not-just-us.htm",
+            "source": "cryptonews",
+            "body": "Christopher Decker, Professor of Economics, the University of Nebraska Omaha.______ The 9.1% increase in US consumer prices in the 12 months ending in June 2022, the highest in four decades, has prompted many sobering headlines. Meanwhile, annual inflation in Germany and the UK – countries with comparable economies – ran nearly as high: 7.5% and 8.2%, respectively, for the 12 months ending in June 2022. In Spain, inflation has hit 10%. ...Read More: Inflation Is Spiking Around the World – Not Just in the US",
+            "tags": "Opinions|Inflation|Economics",
+            "categories": "Market",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "cryptonews",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptonews.png"
+            }
+        },
+        {
+            "id": "27933760",
+            "guid": "https://bitcoinmagazine.com/legal/saving-bitcoin-private-keys-from-courts",
+            "published_on": 1660262400,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoinmagazine.png",
+            "title": "Saving Private Keys From The Courts",
+            "url": "https://bitcoinmagazine.com/legal/saving-bitcoin-private-keys-from-courts",
+            "source": "bitcoinmagazine",
+            "body": "Courts and regulatory entities shouldn’t be allowed to impose their uninformed thoughts on Bitcoin private keys in the form of law.",
+            "tags": "Courts|Opinion|Regulation|Legal|Legal|Private keys",
+            "categories": "Regulation|BTC",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Bitcoin Magazine",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/bitcoinmagazine.png"
+            }
+        },
+        {
+            "id": "27933759",
+            "guid": "https://ambcrypto.com/?p=251503",
+            "published_on": 1660260620,
+            "imageurl": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+            "title": "ETC: Gauging potential targets of this bullish pattern’s breakout",
+            "url": "https://ambcrypto.com/etc-gauging-potential-targets-of-this-bullish-patterns-breakout/",
+            "source": "ambcrypto",
+            "body": "Over the last month, Ethereum Classic [ETC] witnessed no bounds to its growth that extended from the $13-mark. This buying comeback positioned the altcoin near the upper band of the Bollinger Bands (BB) and reaffirmed the one-sided buying edge. ETC jumped over the basis line of its BB after snapping its long-term trendline support (previous [&#8230;]",
+            "tags": "Altcoins|Analysis|HideCryptopanic|News|News 1|Social|Trading View|ETC|ETC Price Prediction",
+            "categories": "ETC|Altcoin|Market|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "AMB Crypto",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/ambcrypto.png"
+            }
+        },
+        {
+            "id": "27933756",
+            "guid": "https://www.theblock.co/post/163133",
+            "published_on": 1660260025,
+            "imageurl": "https://images.cryptocompare.com/news/default/theblock.png",
+            "title": "Stronghold Digital Mining pushes back Q2 earnings due to ‘significant announcement’",
+            "url": "https://www.theblock.co/post/163133/stronghold-digital-mining-pushes-back-q2-earnings-due-to-significant-announcement?utm_source=cryptocompare&utm_medium=rss",
+            "source": "theblock",
+            "body": "Stronghold Digital Mining has pushed back its second-quarter earnings call to August 15.",
+            "tags": "Companies|Earnings|scoop|stronghold|stronghold-digital-mining",
+            "categories": "Mining",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "TheBlock",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/theblock.png"
+            }
+        },
+        {
+            "id": "27933755",
+            "guid": "https://www.cryptopolitan.com/?p=210546",
+            "published_on": 1660259066,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+            "title": "FTX CEO unhappy as crypto firms fail to aid each other",
+            "url": "https://www.cryptopolitan.com/ftx-unhappy-crypto-firms-wont-aid-each-other/",
+            "source": "cryptopolitan",
+            "body": "",
+            "tags": "Industry News",
+            "categories": "Other",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Cryptopolitan",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png"
+            }
+        },
+        {
+            "id": "27933752",
+            "guid": "https://bitcoinist.com/?p=191104",
+            "published_on": 1660258854,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoinist.png",
+            "title": "Mark Cuban Faces Class Action Lawsuit For Promoting Voyager Digital",
+            "url": "https://bitcoinist.com/mark-cuban-faces-class-action-lawsuit-for-promoting-voyager-digital/",
+            "source": "bitcoinist",
+            "body": "Billionaire Mark Cuban has been one of the most vocal proponents of cryptocurrencies. He has also shown this support by accepting cryptocurrency payments for the basketball team Dallas Mavericks, which he owns. Cuban’s foray into cryptocurrencies has also seen him ‘promote’ some platforms in the past, such as Voyager Digital, and as the cryptocurrency firm [&#8230;]",
+            "tags": "Crypto News|crypto|crypto lawsuit|Lawsuit|Mark Cuban|Voyager Digital",
+            "categories": "Other",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Bitcoinist",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/bitcoinist.png"
+            }
+        },
+        {
+            "id": "27933754",
+            "guid": "https://www.newsbtc.com/?p=498413",
+            "published_on": 1660258852,
+            "imageurl": "https://images.cryptocompare.com/news/default/newsbtc.png",
+            "title": "Will Ethereum Breach $2,000 Before The Merge?",
+            "url": "https://www.newsbtc.com/news/ethereum/will-ethereum-breach-2000-before-the-merge/",
+            "source": "newsbtc",
+            "body": "Ethereum has recorded a large upwards movement in the last month following the announcement made about the Merge. A more definite launch time in September has seen the market rally around the altcoin, causing it to surge drastically. With each day, the Merge draws closer, and Ethereum tests another technical level. This time around, the cryptocurrency has set its sight on the $2,000 level as it continues to trade in the green. Will ETH Reach $2,000? Ethereum’s most recent break above the $1,900 level has laid the foundation for a larger bounce upward. This time around, ETH is looking towards the important technical level of $2,000, where the bears have now begun to make their stand. Related Reading: Recovery Market Sentiment Sees Investors Take More Risk With Altcoins However, despite the mounting resistance, the accumulation trend in ETH has provided strong momentum for it. The last 30 days alone have seen the digital asset add more than 50% to its value, but bulls are not satisfied with this. Data shows that Ethereum whales have been taking advantage of the low prices and upping their investments. A single whale had bought approximately $1.7 billion in ETH futures in the past weeks, and others have rocked to follow suit. ETH jumps above $1,900 &#124; Source: ETHUSD on TradingView.com Exchange net flows also show a similar accumulation rend where investors look to be moving out their ETH from centralized exchanges. In the las...",
+            "tags": "Ethereum|ETH|eth price|ethereum|Ethereum Merge|ethusd|ETHUSDT|Merge",
+            "categories": "ETH|Market|Trading|Altcoin|Business",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "NewsBTC",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/newsbtc.png"
+            }
+        },
+        {
+            "id": "27933739",
+            "guid": "https://decrypt.co/?p=107296",
+            "published_on": 1660258107,
+            "imageurl": "https://images.cryptocompare.com/news/default/decrypt.png",
+            "title": "Celsius Creditors Move to Block Company From Selling Mined Bitcoin",
+            "url": "https://decrypt.co/107296/celsius-creditors-lock-company-selling-mined-bitcoin",
+            "source": "decrypt",
+            "body": "Celsius creditors have also filed a statement calling CEO Alex Mashinsky's assurances to customers \"empty and false promises.\"",
+            "tags": "BTC|Business",
+            "categories": "BTC|Business",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Decrypt",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/decrypt.png"
+            }
+        },
+        {
+            "id": "27933738",
+            "guid": "https://www.cryptopolitan.com/?p=210510",
+            "published_on": 1660257237,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+            "title": "How to Stake Zilliqa: Earn 6% APY based on 80% ZIL in Circulation",
+            "url": "https://www.cryptopolitan.com/how-to-stake-zilliqa/",
+            "source": "cryptopolitan",
+            "body": "Staking involves locking up your ZIL tokens for a fixed period to participate in block production and earn rewards. You can stake your ZIL tokens through an exchange or directly on the Zilliqa network. Note that Zilliqa is currently undergoing some API-connection maintenance on Staking Rewards. They are working on solving this, so the data &#8230;  How to Stake Zilliqa: Earn 6% APY based on 80% ZIL in Circulation Read More &#187;",
+            "tags": "Crypto Investing|Guides|exchanges staking|staking",
+            "categories": "ICO|Exchange",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Cryptopolitan",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png"
+            }
+        },
+        {
+            "id": "27933736",
+            "guid": "https://ambcrypto.com/?p=251483",
+            "published_on": 1660257011,
+            "imageurl": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+            "title": "Decoding reasons behind MATIC’s latest price surge",
+            "url": "https://ambcrypto.com/decoding-reasons-behind-matics-latest-price-surge/",
+            "source": "ambcrypto",
+            "body": "Over the last week, MATIC has been trying to post positive gains. Even though the bears have the upper hand, the momentum is not entirely in favor of the sellers. Notably, MATIC was 0.39% down within the past one hour of press time. However, it was still 5.61% up in the last seven days. Well, [&#8230;]",
+            "tags": "Altcoins|News|News 1|Social|Trading View|MATIC|Polygon",
+            "categories": "MATIC|Altcoin|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "AMB Crypto",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/ambcrypto.png"
+            }
+        },
+        {
+            "id": "27933737",
+            "guid": "https://news.bitcoin.com/?p=541816",
+            "published_on": 1660257004,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoincom.png",
+            "title": "Uzbekistan Moves to Block Foreign Cryptocurrency Exchanges",
+            "url": "https://news.bitcoin.com/uzbekistan-moves-to-block-foreign-cryptocurrency-exchanges/",
+            "source": "bitcoin.com",
+            "body": "Authorities in Uzbekistan are restricting access to online crypto trading platforms based outside the country and not registered under its laws. A presidential decree obliges citizens and local companies to only use digital asset exchanges licensed by the government of the Central Asian nation. Uzbekistan Takes Steps to Prevent Crypto Trading and Custody on Foreign [&#8230;]",
+            "tags": "Regulation|block|Citizens|companies|Crypto|crypto assets|crypto exchange|Cryptocurrencies|Cryptocurrency|entities|Exchange|License|NAPP|Regulations|restrictions|service providers|Traders|trading|Uzbekistan|Uzbekistani",
+            "categories": "Trading|Exchange|Regulation",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Bitcoin.com",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/bitcoincom.png"
+            }
+        },
+        {
+            "id": "27933734",
+            "guid": "https://www.cryptopolitan.com/?p=210517",
+            "published_on": 1660256921,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+            "title": "Cardano price analysis: ADA could rise up to $0.67 after surviving $0.51 support test",
+            "url": "https://www.cryptopolitan.com/cardano-price-analysis-2022-08-11/",
+            "source": "cryptopolitan",
+            "body": "Cardano price analysis is bullish today, after a promising trading session later in the day to pull price up to $0.5476. This came about after yesterday&#8217;s revisit of the $0.51 support as ADA lowered down to $0.5019. However, price was quick to pick up again and technical indicators suggest a move up to $0.67 is &#8230;  Cardano price analysis: ADA could rise up to $0.67 after surviving $0.51 support test Read More &#187;",
+            "tags": "News",
+            "categories": "Trading|ADA|Market",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Cryptopolitan",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png"
+            }
+        },
+        {
+            "id": "27933722",
+            "guid": "https://decrypt.co/?p=107293",
+            "published_on": 1660256682,
+            "imageurl": "https://images.cryptocompare.com/news/default/decrypt.png",
+            "title": "Taiwan Turns to Ethereum IPFS Tech to Thwart Chinese Cyberattacks",
+            "url": "https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china",
+            "source": "decrypt",
+            "body": "As tensions with China heat up, Taipei officials leverage decentralized publishing and storage to stay online.",
+            "tags": "ETH|Technology",
+            "categories": "Asia|ETH|Technology",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Decrypt",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/decrypt.png"
+            }
+        },
+        {
+            "id": "27933720",
+            "guid": "https://dailyhodl.com/?p=213429",
+            "published_on": 1660255512,
+            "imageurl": "https://images.cryptocompare.com/news/default/dailyhodl.png",
+            "title": "Here’s What’s Next for Bitcoin, Fantom and One Under-the-Radar Altcoin, According to Top Crypto Trader",
+            "url": "https://dailyhodl.com/2022/08/11/heres-whats-next-for-bitcoin-fantom-and-one-under-the-radar-altcoin-according-to-top-crypto-trader/",
+            "source": "dailyhodl",
+            "body": "A popular crypto analyst is laying out his roadmap for Bitcoin (BTC) and two altcoins, including an Ethereum (ETH) competitor. Michaël van de Poppe tells his 621,800 Twitter followers that Bitcoin is currently consolidating. He says if BTC does dip in price, it needs to hold a low in the area around $21,323 to avoid [&#8230;]The post Here’s What’s Next for Bitcoin, Fantom and One Under-the-Radar Altcoin, According to Top Crypto Trader appeared first on The Daily Hodl.",
+            "tags": "Altcoins|Bitcoin|Ethereum|BTC|ETH|fantom|FTM|Michaël van de Poppe|News|zil|ziliqa",
+            "categories": "BTC|Altcoin|ETH|FTM|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "The Daily Hodl",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/dailyhodl.png"
+            }
+        },
+        {
+            "id": "27933719",
+            "guid": "https://dailyhodl.com/?p=213522",
+            "published_on": 1660255289,
+            "imageurl": "https://images.cryptocompare.com/news/default/dailyhodl.png",
+            "title": "Top US Regulatory Agencies Seek To Mandate New Crypto Disclosure Guidelines for Private Funds",
+            "url": "https://dailyhodl.com/2022/08/11/top-us-regulatory-agencies-seek-to-mandate-new-crypto-disclosure-guidelines-for-private-funds/",
+            "source": "dailyhodl",
+            "body": "Two prominent US regulators are looking to add beefed-up crypto disclosure guidelines for private hedge funds. According to a recent press release, the US Securities and Exchange Commission (SEC), in conjunction with the Commodity Futures Trading Commission (CTFC), is proposing enhanced reporting rules for large private funds. The updated regulations would require funds to provide [&#8230;]The post Top US Regulatory Agencies Seek To Mandate New Crypto Disclosure Guidelines for Private Funds appeared first on The Daily Hodl.",
+            "tags": "Regulators|Crypto|CTFC|Gary Gensler|hedge funds|Hester Pierce|News|regulators|SEC",
+            "categories": "Regulation|Exchange|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "The Daily Hodl",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/dailyhodl.png"
+            }
+        },
+        {
+            "id": "27933718",
+            "guid": "https://bitcoinist.com/?p=191123",
+            "published_on": 1660255203,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoinist.png",
+            "title": "Why NFT Marketplace OpenSea Will Implement Crime Report Policy",
+            "url": "https://bitcoinist.com/why-nft-opensea-will-implement-crime-report-policy/",
+            "source": "bitcoinist",
+            "body": "Popular non-fungible token (NFT) marketplace OpenSea announced changes to its crime reporting policy. Via their Twitter account, the team behind the platform addressed the issues with their old stolen items policy and why it was “damaging” users’ trust in the marketplace. Related Reading: “Bitcoin Family” Loses $1 Million In Bear Market, What’s Next For Them? [&#8230;]",
+            "tags": "NFT|Ethereum|ETHUSDT|nfts",
+            "categories": "ETH|ICO|Market|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Bitcoinist",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/bitcoinist.png"
+            }
+        },
+        {
+            "id": "27933717",
+            "guid": "https://zycrypto.com/?p=71787",
+            "published_on": 1660254799,
+            "imageurl": "https://images.cryptocompare.com/news/default/zycrypto.png",
+            "title": "BTC Primed For Trillion-Dollar Boost As BlackRock Offers Direct Bitcoin Exposure To Institutional Investors",
+            "url": "https://zycrypto.com/btc-primed-for-trillion-dollar-boost-as-blackrock-offers-direct-bitcoin-exposure-to-institutional-investors/",
+            "source": "zycrypto",
+            "body": "The firm’s decision to roll out Bitcoin first was inspired by the cryptocurrency’s strong traits, including its enduring growth over the years, large market capitalization, strong liquidity and the fact that it was the “primary subject of interest” for BlackRock clients within the crypto-asset space.",
+            "tags": "Cryptocurrency|News|Bitcoin News|BTCUSD|BTCUSDC|BTCUSDT|Cryptocurrency News",
+            "categories": "BTC|Business|Market",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "ZyCrypto",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/zycrypto.png"
+            }
+        },
+        {
+            "id": "27933715",
+            "guid": "https://cointelegraph.com/news/defi-platform-oasis-to-block-wallet-addresses-deemed-at-risk",
+            "published_on": 1660254300,
+            "imageurl": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+            "title": "DeFi platform Oasis to block wallet addresses deemed at-risk",
+            "url": "https://cointelegraph.com/news/defi-platform-oasis-to-block-wallet-addresses-deemed-at-risk",
+            "source": "cointelegraph",
+            "body": "Users report that their sessions were disconnected when trying to interact with Oasis with allegedly high risk wallets. ",
+            "tags": "Cryptocurrencies|Oasis|Sanctions|Wallets",
+            "categories": "Other",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "CoinTelegraph",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+            }
+        },
+        {
+            "id": "27933714",
+            "guid": "https://cointelegraph.com/news/unctad-takes-aim-at-crypto-in-developing-world-in-a-series-of-critical-policy-briefs",
+            "published_on": 1660253616,
+            "imageurl": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+            "title": "UNCTAD takes aim at crypto in developing world in a series of critical policy briefs",
+            "url": "https://cointelegraph.com/news/unctad-takes-aim-at-crypto-in-developing-world-in-a-series-of-critical-policy-briefs",
+            "source": "cointelegraph",
+            "body": "The UN organization is urging countries with emerging economies to implement regulation to head off the potentially destabilizing influence of cryptocurrency. ",
+            "tags": "Cryptocurrencies|Law",
+            "categories": "Regulation",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "CoinTelegraph",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+            }
+        },
+        {
+            "id": "27933713",
+            "guid": "https://ambcrypto.com/?p=251413",
+            "published_on": 1660253418,
+            "imageurl": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+            "title": "Ethereum: Is dollar-cost averaging a way to go until Merge comes in",
+            "url": "https://ambcrypto.com/ethereum-is-dollar-cost-averaging-a-way-to-go-until-merge-comes-in/",
+            "source": "ambcrypto",
+            "body": "The Ethereum Merge is about five weeks away and as the count down to the main event narrows, the phrase, “buy the rumor, sell the news” is expected to play out. This means we should expect an increase in the demand for ETH within the next four weeks. A look at ETH’s on-chain metrics reveals [&#8230;]",
+            "tags": "Altcoins|Ethereum|News|News 1|Social|Trading View|ETH",
+            "categories": "ETH|Altcoin",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "AMB Crypto",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/ambcrypto.png"
+            }
+        },
+        {
+            "id": "27933712",
+            "guid": "https://www.theblock.co/post/163102",
+            "published_on": 1660252843,
+            "imageurl": "https://images.cryptocompare.com/news/default/theblock.png",
+            "title": "Bitcoin mining stock report: August 11",
+            "url": "https://www.theblock.co/post/163102/bitcoin-mining-stock-report-august-11?utm_source=cryptocompare&utm_medium=rss",
+            "source": "theblock",
+            "body": "Bitcoin mining stocks mostly increased on Thursday, albeit at a modest rate, as bitcoin's price steadily rises. ",
+            "tags": "Mining|companies|crypto|mining|stocks",
+            "categories": "Mining|BTC|Business|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "TheBlock",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/theblock.png"
+            }
+        },
+        {
+            "id": "27933711",
+            "guid": "https://cryptobriefing.com/?p=120642",
+            "published_on": 1660252360,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptobriefing.png",
+            "title": "Zipmex Restores Limited Ethereum Withdrawals",
+            "url": "https://cryptobriefing.com/zipmex-restores-limited-ethereum-withdrawals/?utm_source=feed&utm_medium=rss",
+            "source": "cryptobriefing",
+            "body": "Zipmex, a recently insolvent crypto exchange, has partially restored users&#8217; ability to access their ETH balance, but only to a point. Zipmex Partially Opens Withdrawals ETH holders on Zipmex can...",
+            "tags": "News|Zipmex",
+            "categories": "ETH|Exchange",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Crypto Briefing",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/cryptobriefing.png"
+            }
+        },
+        {
+            "id": "27933699",
+            "guid": "https://seekingalpha.com/news/3871989-core-scientific-q2-revenue-beat-on-bitcoin-sales-digital-asset-mining-hosting?utm_source=cryptocompare.com&utm_medium=referral",
+            "published_on": 1660252077,
+            "imageurl": "https://images.cryptocompare.com/news/default/seekingalpha.png",
+            "title": "Core Scientific Q2 revenue beat on bitcoin sales, digital asset mining, hosting",
+            "url": "https://seekingalpha.com/news/3871989-core-scientific-q2-revenue-beat-on-bitcoin-sales-digital-asset-mining-hosting?utm_source=cryptocompare.com&utm_medium=referral",
+            "source": "seekingalpha",
+            "body": "Core Scientific (NASDAQ:CORZ) said Thursday that its Q2 revenue surged over 115% from the year before, strengthened by increases in digital asset mining revenue and hosting revenue. \"With enhanced liquidity from bitcoin sales and our committed equity facility, line of sight to improved hosting margins and manageable principal and interest payments on our liabilities, we remain well positioned to navigate current market conditions and emerge from these markets a larger, stronger and more profitable company,” said CEO Mike Levitt. Revenue of $163.9M at the end of June exceeded the average analyst estimate of $161.9M and soared from $75.3M a year ago. Q2 hosting revenue from customers were $31.3M, up from $11.9M in Q2 2021. Digital asset mining revenue of $109.8M in Q2 vs. $10.8M at June 30, 2021.Adjusted EPS of $0.18, though, missed the consensus of $0.25 but increased from $0.13 in Q2 of last year. Operating loss of $1.09B dropped from income of $15.5M, mostly due to an $840.0M impairment of goodwill, a $150.2M impairment of digital assets and higher operating expenses of $106.9M. Adjusted EBITDA for Q2 came in at $59.1M vs. $20.8M in Q2 2021. The company self-mined 3,365 bitcoins (BTC-USD) in Q2, a Y/Y jump of 1,769%. As of June 30, the company held 1,959 bitcoins. Its total hashrate of 17.9 exahash per second consisted of 10.3 EH/s self-mining and 7.6 EH/s hosting. Earlier, Core Scientific Non-GAAP EPS of $0.18 misses by $0.06, revenue of $163.97M beats by $2.07M. ",
+            "tags": "",
+            "categories": "Business|Mining|BTC|Market",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "Seeking Alpha",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/seekingalpha.png"
+            }
+        },
+        {
+            "id": "27933697",
+            "guid": "https://dailyhodl.com/?p=213552",
+            "published_on": 1660251609,
+            "imageurl": "https://images.cryptocompare.com/news/default/dailyhodl.png",
+            "title": "Coinbase CFO Says Crypto Staking for Institutional Investors Could Be a ‘Phenomenon’ in the Future",
+            "url": "https://dailyhodl.com/2022/08/11/coinbase-cfo-says-crypto-staking-for-institutional-investors-could-be-a-phenomenon-in-the-future/",
+            "source": "dailyhodl",
+            "body": "A top executive at leading US-based crypto exchange platform Coinbase says that staking for blue-chip investors is likely to grow in popularity in the years ahead. In a new analyst call, Coinbase chief financial officer Alesia Haas says that the firm recently offering crypto staking for institutions will be felt further down the line rather [&#8230;]The post Coinbase CFO Says Crypto Staking for Institutional Investors Could Be a ‘Phenomenon’ in the Future appeared first on The Daily Hodl.",
+            "tags": "Ethereum|Trading|Alesia Haas|CFO|coinbase|Crypto|crypto exchange|ETH|institutional investors|News|staking",
+            "categories": "Business|ETH|Exchange|ICO|Trading",
+            "upvotes": "0",
+            "downvotes": "0",
+            "lang": "EN",
+            "source_info": {
+                "name": "The Daily Hodl",
+                "lang": "EN",
+                "img": "https://images.cryptocompare.com/news/default/dailyhodl.png"
+            }
+        }
+    ],
+    "RateLimit": {},
+    "HasWarning": false
+}
